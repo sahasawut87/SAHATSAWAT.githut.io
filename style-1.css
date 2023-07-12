@@ -1,0 +1,16 @@
+.name{
+    font-family: 'Abril Fatface',sans-serifs;
+    /* font-style: oblique; */
+    font-size: 100%;
+    color: rgb(243, 243, 243);
+ }
+ body {
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://png.pngtree.com/background/20210710/original/pngtree-border-background-irregular-geometric-yellow-green-round-minimalistic-picture-image_978972.jpg');
+   }
+  .Profile-info{
+   width:120px;
+   height:150px;
+  }
